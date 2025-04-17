@@ -1,0 +1,3 @@
+# MyFin
+Financial Management Assistant
+:)
